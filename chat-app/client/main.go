@@ -14,7 +14,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	proto "Github.com/christoffer-lindow/learning-go/chat-app/protos"
+	proto "github.com/christoffer-lindow/learning-go/chat-app/protos"
 )
 
 var client proto.BroadcastClient
