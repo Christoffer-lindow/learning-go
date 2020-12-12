@@ -9,7 +9,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	proto "christoffer-lindow/learning-go/chat-app/protos"
+	proto "github.com/christoffer-lindow/learning-go/chat-app/protos"
 
 	glog "google.golang.org/grpc/grpclog"
 )
