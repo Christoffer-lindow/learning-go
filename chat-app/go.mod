@@ -1,4 +1,4 @@
-module Github.com/christoffer-lindow/learning-go/chat-app
+module github.com/christoffer-lindow/learning-go/chat-app
 
 go 1.15
 
